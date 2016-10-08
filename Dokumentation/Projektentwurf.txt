@@ -4,3 +4,16 @@
 
 Erfolgreich Studieren (#A013)
 
+Die Software soll Studierenden dabei helfen Probleme im Studium frühzeitig zu erkennen und zu lösen, sowie ihnen beim Lernen und der allgemeinen Organisation des Studiums helfen.
+
+(Mögliche) Programmteile der Software sind:
+
+Log-In Maske; der Benutzer legt ein Profil an in welchem er Namen, Studienfach, Kurse etc. angibt
+
+Zeitplaner; der Benutzer trägt alle Termine und Fristen ein, Lernplaner (siehe unten), erinnert den Studenten rechtzeitig, gibt dem Studenten eine gute Übersicht
+
+Lernplaner; der Benutzer trägt für jeden Kurs ein, was er bis wann gelernt haben muss bzw. das Programm schlägt vor (anhand von anderen Projektzeiträumen, Klausurterminen, Semesterferien usw.) wann welche Themen am besten gelernt werden sollten, hilft außerdem dabei effektiv zu lernen d.h. Lernpausen einlegen, Ausgleich zum Studium/Hobbys nicht vernachlässigen und gibt Tipps zum selbstständigem Lernen
+
+Lernprogramme; Themen-/Fachspezifische Fragen, häufigkeiten der richtigen/falschen Antwort werden gezählt und Fragen dementsprechend gestellt, Benutzer können eigene Fragen anlegen
+
+Diskussions- und Fragenforum, „Messenger“; FAQ´s, (eventuell schwer, da es abhängig davon ist wie viele andere Studenten mit gleichem/ähnlichem Studiengang die Software nutzen)
