@@ -10,10 +10,46 @@ Die Software soll Studierenden dabei helfen Probleme im Studium frühzeitig zu e
 
 Log-In Maske; der Benutzer legt ein Profil an in welchem er Namen, Studienfach, Kurse etc. angibt
 
-Zeitplaner; der Benutzer trägt alle Termine und Fristen ein, Lernplaner (siehe unten), erinnert den Studenten rechtzeitig, gibt dem Studenten eine gute Übersicht
+Zeitplaner; der Benutzer trägt alle Termine und Fristen ein, Lernplaner (siehe unten), 
+erinnert den Studenten rechtzeitig, 
+gibt dem Studenten eine gute Übersicht
 
-Lernplaner; der Benutzer trägt für jeden Kurs ein, was er bis wann gelernt haben muss bzw. das Programm schlägt vor (anhand von anderen Projektzeiträumen, Klausurterminen, Semesterferien usw.) wann welche Themen am besten gelernt werden sollten, hilft außerdem dabei effektiv zu lernen d.h. Lernpausen einlegen, Ausgleich zum Studium/Hobbys nicht vernachlässigen und gibt Tipps zum selbstständigem Lernen
+Lernplaner; der Benutzer trägt für jeden Kurs ein, was er bis wann gelernt haben muss bzw. das Programm schlägt vor (anhand von anderen Projektzeiträumen, Klausurterminen, Semesterferien usw.) 
+wann welche Themen am besten gelernt werden sollten, 
+hilft außerdem dabei effektiv zu lernen d.h. Lernpausen einlegen, Ausgleich zum Studium/Hobbys nicht vernachlässigen und 
+gibt Tipps zum selbstständigem Lernen
 
 Lernprogramme; Themen-/Fachspezifische Fragen, häufigkeiten der richtigen/falschen Antwort werden gezählt und Fragen dementsprechend gestellt, Benutzer können eigene Fragen anlegen
 
 Diskussions- und Fragenforum, „Messenger“; FAQ´s, (eventuell schwer, da es abhängig davon ist wie viele andere Studenten mit gleichem/ähnlichem Studiengang die Software nutzen)
+
+===================================
+=== Feedback Alpers, 2016-10-14 ===
+===================================
+
+=== 1.) Formales
+
+Sie sollten hier die einzelnen Teilpunkte sichtbar voneinander trennen, damit es leichter ist, zu erkennen, was bereits umgesetzt wurde und was noch zu erledigen ist. Benutzen Sie am besten Spiegelstriche (oder ein anderes übliches Aufzählungssymbol), um die einzelnen Punkte hervorzuheben.
+
+=== 2.) Inhaltliches
+
+Sehr gut. Sie haben in sehr knapper Form eine Reihe möglicher Programmpunkte aufgeführt, die jeweils klar umfasst sind. Außerdem ist diese Aufstellung sehr gut geeignet, um darauf basierend eine Struktur zu entwerfen.
+
+=== 3.) Adaption
+
+Hier haben Sie ebenfalls eine Reihe guter Ideen, die evtl. noch etwas konkreter formuliert werden könnten, aber das ist Kritik auf hohem Niveau.
+
+=== 4.) Verteilte Anwendung
+
+Auch hier haben Sie schon erste gute Ideen. Weiter so.
+
+==================================================
+=== Wertung 2: Projektentwurf: gesamt: 10 / 10 ===
+==================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 5
+- Pro Strategie des Computers, die die individuellen Züge des Spielers adaptiert 0 bis 5 Pk.: 5
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.: 0
+- Designaspekte -5 bis 0 Pk.: 0
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.: 0
+(Dies ist keine abschließende Wertung.)
