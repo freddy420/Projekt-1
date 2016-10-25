@@ -1,0 +1,28 @@
+=========================================
+=== Strukturelle Elemente, 2016-10-25 ===
+=========================================
+
+== 01 input/submit ==
+01_01 submit
+
+== 02 input/text ==
+02_01 type=text / Eingabe des Namens
+02_02 type=text / Eingabe des Studienfaches
+02_03 type=text / Eingabe eines Kurses
+
+== 03 input/password ==
+03_01 type=password / Eingabe des Passworts
+
+== 04 input/date ==
+04_01 type=date / Eingabe des Datums des Semesterbeginn
+04_02 type=date / Eingabe des Datums des Semesterende
+04_03 type=date / Eingabe des Klausurtermins
+04_04 type=date / Eingabe von besonderen Tagen/freien Tagen (Geburtstage, Wichtige Veranstaltungen, bei Krankheit usw.)
+04_01 type=date / Eingabe des Datums vom Beginn des Projektzeitraumes
+04_02 type=date / Eingabe des Datums vom Beginn des Projektzeitraumes
+
+
+==05 Schaltflächen ==
+05_01 Kurs hinzufügen /
+05_02 Klausurtermin hinzufügen /
+05_03 Projekt(-zeitraum) hinzufügen /
