@@ -14,8 +14,8 @@ Zeitplaner; der Benutzer trägt alle Termine und Fristen ein, Lernplaner (siehe 
 erinnert den Studenten rechtzeitig, 
 gibt dem Studenten eine gute Übersicht
 
-Lernplaner; der Benutzer trägt für jeden Kurs ein, was er bis wann gelernt haben muss bzw. das Programm schlägt vor (anhand von anderen Projektzeiträumen, Klausurterminen, Semesterferien usw.) 
-wann welche Themen am besten gelernt werden sollten, 
+Lernplaner; der Benutzer trägt für jeden Kurs ein, was er bis wann gelernt haben muss 
+bzw. das Programm schlägt vor (anhand von anderen Projektzeiträumen, Klausurterminen, Semesterferien usw.) wann welche Themen am besten gelernt werden sollten, 
 hilft außerdem dabei effektiv zu lernen d.h. Lernpausen einlegen, Ausgleich zum Studium/Hobbys nicht vernachlässigen und 
 gibt Tipps zum selbstständigem Lernen
 
@@ -53,3 +53,10 @@ Auch hier haben Sie schon erste gute Ideen. Weiter so.
 - Designaspekte -5 bis 0 Pk.: 0
 - Voraussetzung bekannten Wissens -5 bis 0 Pk.: 0
 (Dies ist keine abschließende Wertung.)
+
+===================================
+=== Feedback Alpers, 2016-10-26 ===
+===================================
+
+Nachtrag: Arbeiten Sie noch etwas konkreter aus, wie die Adaption erfolgen soll. Hier ein Beispiel:
+

@@ -26,3 +26,20 @@
 05_01 Kurs hinzufügen /
 05_02 Klausurtermin hinzufügen /
 05_03 Projekt(-zeitraum) hinzufügen /
+
+===================================
+=== Feedback Alpers, 2016-10-26 ===
+===================================
+
+Macht alles Sinn, schade, dass Sie so wenig in den letzten zwei Wochen getan haben; hätten Sie konsequent am Projekt weiter gearbeitet, dann wäre es durchaus möglich gewesen, dass Sie in zwei bis drei Wochen schon alles nötige für den Leistungsnachweis erbracht hätten.
+
+Unter Umständen werden die Schaltflächen sich später als Links herausstellen.
+
+================================================================
+=== Wertung 3: Ausarbeitung der strukt. Elem. gesamt: 4 / 10 ===
+================================================================
+- Knappe Form (0 - 3 Pk.): 3
+- Für je 5 unterschiedl. strukt. Elem (keine Gruppierungen) 1 Pk.: 1
+=== (Malus bei strukt. Elem.) ===
+- Vermischung strukt. Elem., Gruppierung, Abläufe usw. -5 bis 0 Pk.: 0
+(Dies ist keine abschließende Wertung.)
