@@ -1,5 +1,5 @@
 =========================================
-=== Strukturelle Elemente, 2016-10-25 ===
+=== Strukturelle Elemente, 2016-10-30 ===
 =========================================
 
 == 01 input/submit ==
@@ -9,6 +9,8 @@
 02_01 type=text / Eingabe des Namens
 02_02 type=text / Eingabe des Studienfaches
 02_03 type=text / Eingabe eines Kurses
+02_04 type=text / Eingabe einer Frage
+02_05 type=text / Eingabe eines Themas
 
 == 03 input/password ==
 03_01 type=password / Eingabe des Passworts
@@ -21,11 +23,16 @@
 04_01 type=date / Eingabe des Datums vom Beginn des Projektzeitraumes
 04_02 type=date / Eingabe des Datums vom Beginn des Projektzeitraumes
 
-
 ==05 Schaltflächen ==
 05_01 Kurs hinzufügen /
 05_02 Klausurtermin hinzufügen /
 05_03 Projekt(-zeitraum) hinzufügen /
+
+==06 Textfelder ==
+06_01 Feld zum Anzeigen von Fragen
+06_02 Feld zum Anzeigen von Antworten
+06_03 Feld zum Anzeigen der/des nächsten Frist/Termin
+06_04 Textfeld(-er) für FAQ´s
 
 ===================================
 === Feedback Alpers, 2016-10-26 ===
