@@ -1,5 +1,5 @@
 =========================================
-=== Strukturelle Elemente, 2016-10-30 ===
+=== Strukturelle Elemente, 2016-11-09 ===
 =========================================
 
 == 01 input/submit ==
@@ -36,6 +36,37 @@
 06_04 Textfeld(-er) für FAQ´s
 06_05 Feld zum Anzeigen von Anweisungen (Log-In)
 06_06 Feld zum Anzeigen von Anweisungen (Registrierung)
+
+=================================
+=== Microservices, 2016-11-09 ===
+=================================
+
+== I - LogIn ==
+02_01 input / Name
+03_01 input / Passowrt
+01_01 submit
+06_05 Textfeld mit Anweisungen
+
+== II - Registrierung ==
+02_01 input / Name
+02_02 input / Studienfach
+03_01 input / Passwort
+01_01 submit
+06_06 Textfeld mit Anweisungen
+
+== III - Quiz ==
+06_01 Textfeld Fragen
+06_02 Textfeld Antworten
+02_06 input / Antwort
+
+== IV - Reminder ==
+04_01 input / Semesterbegin
+04_02 input / Semesterende
+04_03 input / Klausurtermin
+04_04 input / freie Tage
+04_05 input / Beginn Projektzeitraum
+04_06 input / Ende Projektzeitraum
+02_03 input / Kurs
 
 ===================================
 === Feedback Alpers, 2016-10-26 ===
